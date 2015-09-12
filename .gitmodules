@@ -1,0 +1,3 @@
+[submodule "bytesjack"]
+	path = bytesjack
+	url = http://github.com/CrandellWS/bytesjack-for-fire-tv
