@@ -1,3 +1,6 @@
 [submodule "bytesjack"]
 	path = bytesjack
 	url = https://github.com/CrandellWS/bytesjack-for-fire-tv
+[submodule "dpi.crandell.ws"]
+	path = dpi
+	url = https://github.com/CrandellWS/dpi.crandell.ws
