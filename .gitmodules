@@ -4,3 +4,6 @@
 [submodule "dpi.crandell.ws"]
 	path = dpi
 	url = https://github.com/CrandellWS/dpi.crandell.ws
+[submodule "dpi/dpi.crandell.ws"]
+	path = dpi/dpi.crandell.ws
+	url = git@github.com:CrandellWS/dpi.crandell.ws.git
